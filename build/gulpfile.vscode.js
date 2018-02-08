@@ -52,6 +52,7 @@ const excludedExtensions = [
 	'vscode-colorize-tests',
 	'ms-vscode.node-debug',
 	'ms-vscode.node-debug2',
+	'typescript'
 ];
 
 const vscodeEntryPoints = _.flatten([
